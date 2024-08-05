@@ -8,7 +8,9 @@ import matplotlib.pyplot as plt
 
 
 
-bahan = r'C:\Users\ASUS\Belajar\Excel\TestGI.xlsx'
+# bahan = r'C:\Users\ASUS\Belajar\Excel\TestGI.xlsx'
+bahan = 'TestGI.xlsx'
+
 dftr_kolom = ("NAMA", "SISTEM", "TIPE", "TEGANGAN", "DAYA", "STATUS", "TAHUN", "KOTA", 
               "KAPASITAS", "PROV", "Longitude", "Latitude")
 
